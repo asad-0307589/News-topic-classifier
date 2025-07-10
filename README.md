@@ -28,14 +28,14 @@ The goal is to demonstrate transfer learning, text classification, and model dep
 
 ---
 
-<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/9c3b4e89-9415-4314-8396-7b03e414c717" />
+
 
 
 ## 🚀 Installation & Usage
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/news-topic-classifier.git
+git clone https://github.com/asad-0307589/News-topic-classifier.git
 cd news-topic-classifier
 
 # Install dependencies
@@ -44,6 +44,10 @@ pip install -r requirements.txt
 
 # Run the Gradio app
 python app.py
+
+---
+## 🚀 Demo
+<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/3853943b-379c-4965-8d8c-204f1b728287" />
 
 
 
