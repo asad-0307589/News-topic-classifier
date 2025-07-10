@@ -27,6 +27,9 @@ The goal is to demonstrate transfer learning, text classification, and model dep
 - Transfer learning with BERT proved effective, even with a limited number of epochs.
 
 ---
+## 📸 Demo
+![Demo Screenshot](assets/demo_screenshot.png)
+
 
 ## 🚀 Installation & Usage
 
@@ -44,4 +47,3 @@ pip install -r requirements.txt
 # Run the Gradio app
 python app.py
 
-![Demo Screenshot](assets/Screenshot.png)
