@@ -5,6 +5,7 @@ A machine learning application that classifies news headlines into four topic ca
 
 
 ---
+<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/7490440a-d5bb-42c6-93ed-ebe92f11d3f0" />
 
 ## 🎯 Objective
 To build a lightweight and interactive news topic classifier by fine-tuning a transformer model (BERT) on the AG News dataset.  
@@ -44,10 +45,6 @@ pip install -r requirements.txt
 
 # Run the Gradio app
 python app.py
-
----
-## 🚀 Demo
-<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/3853943b-379c-4965-8d8c-204f1b728287" />
 
 
 
