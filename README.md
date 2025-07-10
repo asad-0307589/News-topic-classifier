@@ -38,8 +38,10 @@ cd news-topic-classifier
 # Install dependencies
 pip install -r requirements.txt
 
-<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/93647f2c-0fe3-418c-9bbd-9ae34a92bb46" />
+
 
 
 # Run the Gradio app
 python app.py
+
+![Demo Screenshot](assets/Screenshot.png)
