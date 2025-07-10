@@ -28,6 +28,7 @@ The goal is to demonstrate transfer learning, text classification, and model dep
 
 ---
 
+<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/9c3b4e89-9415-4314-8396-7b03e414c717" />
 
 
 ## 🚀 Installation & Usage
@@ -44,8 +45,5 @@ pip install -r requirements.txt
 # Run the Gradio app
 python app.py
 
-## Demo
-
-<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/cd1a86de-f1e9-436a-81f6-f36e9aa69180" />
 
 
