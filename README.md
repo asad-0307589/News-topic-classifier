@@ -28,7 +28,8 @@ The goal is to demonstrate transfer learning, text classification, and model dep
 
 ---
 ## 📸 Demo
-![Demo Screenshot](assets/Screenshot.png)
+![Demo Screenshot](Screenshot.png)
+
 
 
 ## 🚀 Installation & Usage
