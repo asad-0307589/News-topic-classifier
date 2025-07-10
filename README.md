@@ -44,6 +44,8 @@ pip install -r requirements.txt
 # Run the Gradio app
 python app.py
 
-<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/b235393f-89e4-4ede-ae98-978f4143fd84" />
+## Demo
+
+<img width="1358" height="631" alt="Screenshot" src="https://github.com/user-attachments/assets/cd1a86de-f1e9-436a-81f6-f36e9aa69180" />
 
 
